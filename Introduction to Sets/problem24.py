@@ -1,8 +1,4 @@
 # Introduction to Sets
-#n=int(input())
-#myset=set(map(int,input().split()))
-#length=len(myset)
-#print(sum(myset)/length)
 def average(array):
  myset=set(array)
  length=len(myset)

@@ -1,4 +1,4 @@
-#List
+#Runner-up Score
 N=int(input())
 list_1=list(map(int, input().split()))
 unique = list(set(list_1))
